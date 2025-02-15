@@ -7,3 +7,5 @@ Este conjunto de datos contiene información detallada sobre las ventas de una t
 # Análisis final
 - Aumento estacional de productos de verano
 1. Bajo rendimiento en la categoría de electrónica
+
+
